@@ -1,4 +1,4 @@
-# LIVE DEMO :-  <a href="https://rpsgamenk.ccbp.tech">Gradient Generator</a>
+# LIVE DEMO :-  <a href="https://rpsgamenk.ccbp.tech">Rock-Paper-Scissors</a>
 
 In this project, let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
 
